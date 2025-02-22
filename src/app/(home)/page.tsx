@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import logo from '../../assets/logo.png'
 import { Radio } from 'lucide-react'
-import { SubscriptionForm } from './subscriptionForm'
+import { SubscriptionForm } from './subscription-form'
 
 export default function Home() {
   return (
